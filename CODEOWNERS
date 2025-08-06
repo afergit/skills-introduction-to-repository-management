@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @afergit
+/src/backend/database.py      @afergit
+/src/backend/routers/auth.py  @afergit
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @afergit
